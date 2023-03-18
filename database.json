@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Weak Hero",
+        "list_url": "https://komikcast.net/komik/861752-weak-hero/",
+        "list_el": "#chapter_list li",
+        "chapter_link_el": ".dt>a",
+        "img_el": ["#chimg img"],
+        "next_el": ".nextprev a[rel='next']",
+        "root_dir": "C:\\Users\\qorya\\Documents\\Komik\\Weak_Hero"
+    },
+    {
+        "name": "Battle Through the Heavens",
+        "list_url": "https://komikcast.site/komik/battle-through-the-heavens/",
+        "list_el": "#chapter-wrapper",
+        "chapter_link_el": ".chapter-link-item",
+        "img_el": [".main-reading-area img"],
+        "next_el": ".nextprev a[rel='next']",
+        "root_dir": "C:\\Users\\qorya\\Documents\\Komik\\Battle_Through_the_Heavens"
+    },
+    {
+        "name": "Return of The Legend",
+        "list_url": "https://returnofthelegend.com/",
+        "list_el": "#main .su-posts.su-posts-list-loop",
+        "chapter_link_el": ".su-post a",
+        "img_el": [".separator img", ".entry-content .wp-block-image img"],
+        "next_el": ".next-post a",
+        "root_dir": "C:\\Users\\qorya\\Documents\\Komik\\Return_of_The_Legend"
+    }
+]
